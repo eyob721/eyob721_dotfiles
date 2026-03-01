@@ -79,7 +79,7 @@ BOOTS="$HOME/Files/0_Projects/Boots"
 alias ls='lsd -l'
 alias grep='grep --color=auto'
 alias pacman='pacman --color auto'
-alias yay="yay --aur --color=always"
+alias yay="yay --batchinstall --sudoloop --aur --color=always"
 alias initiate_conda='eval "$(/home/papi721/anaconda3/bin/conda shell.zsh hook)"'
 
 # Alx aliases
