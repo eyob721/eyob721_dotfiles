@@ -91,8 +91,7 @@ alias alxbe="cd $ALXBE && conda activate alxbe 2> /dev/null"
 alias alxbe_projects="cd $ALXBE/projects && conda activate alxbe 2> /dev/null"
 alias alxbe_practice="cd $ALXBE/practice && conda activate alxbe 2> /dev/null"
 # alias alx_kitten_sandbox='kitten ssh alxsandbox@192.168.122.121'
-
-alias alxds="cd $ALXDS"
+alias alxds="cd $ALXDS && conda activate alx_data_science 2> /dev/null"
 
 # CLI aliases
 alias gcc_alx='gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -g'
