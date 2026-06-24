@@ -122,6 +122,9 @@ alias senbet="cd '/home/eyob721/Files/ኦርቶዶክስ ተዋሕዶ/ሰንበ�
 # Reload zsh
 alias reload_zsh="exec '$SHELL'"
 
+# Other
+alias pdfmd_gui="/usr/bin/python -m pdfmd.app_gui"
+
 # }}}
 
 # == Completion ============================================================{{{
