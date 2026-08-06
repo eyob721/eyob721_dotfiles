@@ -123,6 +123,7 @@ alias reload_zsh="exec '$SHELL'"
 
 # Other
 alias pdfmd_gui="/usr/bin/python -m pdfmd.app_gui"
+alias create_tax_folders="/home/papi721/Files/VMs/Shared/Win11/1_Areas_Win11/ABCE/Office/Finance/create_tax_folders.sh"
 
 # }}}
 
